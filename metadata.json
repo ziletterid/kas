@@ -1,0 +1,7 @@
+{
+  "name": "SmashLedger - Kas Badminton & Spreadsheet Sync",
+  "description": "Aplikasi pembukuan keuangan dan kas klub badminton transparan, mencatat iuran anggota, pengeluaran kok dan sewa lapangan, serta tersinkronisasi langsung dengan Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
